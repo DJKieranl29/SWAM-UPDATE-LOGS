@@ -1,6 +1,5 @@
-# 🚀 Admin System Update - Version 2.1.0
+# 🚀 SWAM Portal Update - Version 2.0.6
 
-**Release Date:** December 2024  
 **Update Type:** Feature Enhancement & Security Improvements  
 **Affected Systems:** Admin Dashboard, Manual Data Entry, Vale Rewards Report
 
@@ -169,3 +168,4 @@ This update introduces significant improvements to the admin system, focusing on
 **All Systems Operational** 🟢  
 **Security Enhanced** 🔒  
 **User Experience Improved** 🎯
+
