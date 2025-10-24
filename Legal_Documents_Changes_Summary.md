@@ -2,7 +2,7 @@
 ## Changes Made to Terms of Service and Privacy Policy
 
 **Date:** October 24, 2025  
-**Based on:** Professional legal review feedback
+**Based on:** A friends  legal review feedback
 
 ---
 
@@ -319,5 +319,6 @@ For questions about these legal document updates, contact:
 **Document Status:** ✅ PENDING, Awaiting Staff Approval.  
 **Last Updated:** October 24, 2025  
 **Next Review Due:** October 2026
+
 
 
