@@ -8,7 +8,7 @@
 
 ## Overview
 
-All suggested changes from the legal review have been successfully implemented to enhance clarity, legal robustness, and user understanding of both documents.
+All suggested changes from the legal review have been successfully implemented to enhance clarity, legal robustness, and user understanding of both documents. (A nonpublic dev build, currently. Will be updated to site on review!)
 
 ---
 
@@ -319,6 +319,7 @@ For questions about these legal document updates, contact:
 **Document Status:** ✅ PENDING, Awaiting Staff Approval.  
 **Last Updated:** October 24, 2025  
 **Next Review Due:** October 2026
+
 
 
 
